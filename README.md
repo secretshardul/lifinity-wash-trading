@@ -1,6 +1,6 @@
 # On the wash trading of Lifinity Flares
 
-We present evidence on the wash trading of NFT by people directly behind [Lifinity](lifinity.io). The team minted a large number of their own NFTs on the day of the public mint to decieve investors by create FOMO and inflated demand in the secondary market. A [single wallet](https://solscan.io/account/8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn) suspected to be belong to a core member of Lifinity and Synthetify alone minted 1150 of the 10,000 NFTs.
+We present evidence on the wash trading of NFT by people directly behind [Lifinity](lifinity.io). The team minted a large number of their own NFTs to create FOMO and inflated demand in the secondary market. A [single wallet](https://solscan.io/account/8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn) suspected to be belong to a core member of Lifinity and Synthetify alone minted 1150 of the 10,000 NFTs.
 
 [Wash trading is a crime](https://en.wikipedia.org/wiki/Wash_trade) in regulated markets.
 
@@ -20,21 +20,27 @@ We present evidence on the wash trading of NFT by people directly behind [Lifini
 | 52jTdrpRwiYGtMSUMnCFhcCjdEUMJRFSrb3YxQGiN1Vx | 190         |
 | sfgt6jXbjoT4DV9WysSkHY5Xyt88rBBNvddytuhWA67  | 182         |
 
-3. There's clear evidence that [8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn](https://solscan.io/account/8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn) which bought 1150 flares is Norbert Bodziony or a close asssociate of Synthetify.
+3. [8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn](https://solscan.io/account/8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn) which bought 1150 flares is Norbert Bodziony or a close asssociate of Synthetify.
 
-    1. https://solscan.io/account/HJHg4Tob8vMkB5QAStdbcp8NeXV5HtMP5E3kUNJSaD6r is the $SNY token account for this wallet. The oldest transactions are 10 month old, coinciding with Synthetify's launch.
+    1. $SNY token account for this wallet is https://solscan.io/account/HJHg4Tob8vMkB5QAStdbcp8NeXV5HtMP5E3kUNJSaD6r. The oldest transactions are 10 month old, coinciding with Synthetify's launch.
 
-        ![](./assets/sny-holder.jpg)
+    ![](./assets/sny-holder.jpg)
 
-        ![](./assets/sny-holder-old.jpg)
+    ![](./assets/sny-holder-old.jpg)
+
+    [Step finance](https://app.step.finance/#/watch/8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn) reveals that the address has $1M worth of $SNY staked on Synthetify.
+
+
+    ![](./assets/sny-step.jpg)
+
 
     2. Wash minting of 1150 Flares by [8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn](https://solscan.io/account/8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn)-
 
-        ![](./assets/wash-mint.jpg)
+    ![](./assets/wash-mint.jpg)
 
+    ![](./assets/step-flares.jpg)
 
     3. It is likely that #2 and other addresses are shell accounts to buy more flares.
-
 
 ## Methodology
 
