@@ -1,0 +1,1031 @@
+{
+    "success": true,
+    "data": [
+        {
+            "info": {
+                "_id": "61c8ad9bc5c37f3d0b195751",
+                "key": 4,
+                "updateAuthority": "H5q7Z2FJ5KaWmtGquGqoYJYrM73BEpoabzas5y12s38T",
+                "mint": "5MeYfuJjGFyrePZiXb57fuCE9ZJu9L7jLy6a38KVrzcY",
+                "data": {
+                    "name": "LIFINITY Flares #10000",
+                    "symbol": "LIFINITY",
+                    "uri": "https://arweave.net/ljVa2fpb-ZU0qna0FLfnF56E1Y43bU0YadJz_BvBR6Q",
+                    "sellerFeeBasisPoints": 500,
+                    "creators": [
+                        {
+                            "address": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
+                            "verified": 1,
+                            "share": 0
+                        },
+                        {
+                            "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                            "verified": 0,
+                            "share": 100
+                        }
+                    ],
+                    "id": 10000
+                },
+                "primarySaleHappened": 1,
+                "isMutable": 1,
+                "mintTx": "3BmcMQtrFyeUs1Xe6QjkUVjMHXinjUASYFmr4SFH5USV3GjYmDkLYGYFdfhxiZzWz219DDctCG8JDfXDnXhD8xBx",
+                "createdTime": 1640541569,
+                "msgsource": "minttx",
+                "collection": "LIFINITY Flares",
+                "collectionId": "e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52",
+                "meta": {
+                    "name": "LIFINITY Flares #10000",
+                    "symbol": "LIFINITY",
+                    "description": "Lifinity Flares is a set of 10,000 animated NFTs that directly combine NFTs with DeFi. They are designed to bootstrap liquidity on Lifinity and perpetually create value for the holders. All sale proceeds are deposited into Lifinity's liquidity pools. Royalties and trading fees are either used to buy back Lifinity Flares or are reinvested into the pools. The team takes zero profit. All value accrues to NFT holders.",
+                    "seller_fee_basis_points": 500,
+                    "image": "https://www.arweave.net/NCP9SVjXrDhVWA9SuvWwPtYpw4fm7cuGybEVADyAmCE?ext=webp",
+                    "external_url": "https://lifinity.io",
+                    "attributes": [
+                        {
+                            "trait_type": "Type",
+                            "value": "Standard"
+                        },
+                        {
+                            "trait_type": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "trait_type": "Fire type",
+                            "value": "Zap"
+                        },
+                        {
+                            "trait_type": "Eyes",
+                            "value": "Laughing"
+                        },
+                        {
+                            "trait_type": "Mouth",
+                            "value": "Smile 2"
+                        },
+                        {
+                            "trait_type": "Favorite Burnable",
+                            "value": "Oil"
+                        }
+                    ],
+                    "collection": {
+                        "name": "LIFINITY Flares",
+                        "family": "LIFINITY Flares"
+                    },
+                    "properties": {
+                        "files": [
+                            {
+                                "uri": "https://www.arweave.net/NCP9SVjXrDhVWA9SuvWwPtYpw4fm7cuGybEVADyAmCE?ext=webp",
+                                "type": "image/webp"
+                            }
+                        ],
+                        "category": "image",
+                        "creators": [
+                            {
+                                "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                                "share": 100
+                            }
+                        ]
+                    }
+                },
+                "family": "LIFINITY Flares"
+            },
+            "trade": {
+                "tradeCount": 1,
+                "tradeTime": 1641166475,
+                "price": 5500000000,
+                "dex": "magiceden",
+                "signature": "nLzcjGUjdcZ8bSZgm4WgUdwgxKq6zFdnxFyEgzXY6ZXks8iu9dhKgKd6G8gUeEKvVEZNvA5RxJaVEFGTHs2HK3z"
+            }
+        },
+        {
+            "info": {
+                "_id": "61c8ad9bc5c37f3d0b195750",
+                "key": 4,
+                "updateAuthority": "H5q7Z2FJ5KaWmtGquGqoYJYrM73BEpoabzas5y12s38T",
+                "mint": "2uJnz77EFXnGcPvGtLpGK9HpWKJMLpXzyNqykP8wm2un",
+                "data": {
+                    "name": "LIFINITY Flares #9999",
+                    "symbol": "LIFINITY",
+                    "uri": "https://arweave.net/nhp6GlVJ_7kKnY1jqhkwgHBDOSYLoJ_1bP62fdvRCnA",
+                    "sellerFeeBasisPoints": 500,
+                    "creators": [
+                        {
+                            "address": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
+                            "verified": 1,
+                            "share": 0
+                        },
+                        {
+                            "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                            "verified": 0,
+                            "share": 100
+                        }
+                    ],
+                    "id": 9999
+                },
+                "primarySaleHappened": 1,
+                "isMutable": 1,
+                "mintTx": "4EvmZRJkzDUkGG1E9aDsU1oU1uGWL4KRm1qEH6dRxihyjyzY5MF3cWSCLzwR3JXvVpfGLzb88Gqx8JU6eaYf1E45",
+                "createdTime": 1640541568,
+                "msgsource": "minttx",
+                "collection": "LIFINITY Flares",
+                "collectionId": "e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52",
+                "meta": {
+                    "name": "LIFINITY Flares #9999",
+                    "symbol": "LIFINITY",
+                    "description": "Lifinity Flares is a set of 10,000 animated NFTs that directly combine NFTs with DeFi. They are designed to bootstrap liquidity on Lifinity and perpetually create value for the holders. All sale proceeds are deposited into Lifinity's liquidity pools. Royalties and trading fees are either used to buy back Lifinity Flares or are reinvested into the pools. The team takes zero profit. All value accrues to NFT holders.",
+                    "seller_fee_basis_points": 500,
+                    "image": "https://www.arweave.net/MW1ubAhuRmVVYVSWYqa5Pek9eoSuACVdkTwX-vmdscc?ext=webp",
+                    "external_url": "https://lifinity.io",
+                    "attributes": [
+                        {
+                            "trait_type": "Type",
+                            "value": "Standard"
+                        },
+                        {
+                            "trait_type": "Color",
+                            "value": "Pink"
+                        },
+                        {
+                            "trait_type": "Fire type",
+                            "value": "Flare"
+                        },
+                        {
+                            "trait_type": "Eyes",
+                            "value": "Wink"
+                        },
+                        {
+                            "trait_type": "Eyewear",
+                            "value": "Circle glasses"
+                        },
+                        {
+                            "trait_type": "Mouth",
+                            "value": "Grin 2"
+                        },
+                        {
+                            "trait_type": "Headwear",
+                            "value": "Ape"
+                        },
+                        {
+                            "trait_type": "Favorite Burnable",
+                            "value": "Incense"
+                        }
+                    ],
+                    "collection": {
+                        "name": "LIFINITY Flares",
+                        "family": "LIFINITY Flares"
+                    },
+                    "properties": {
+                        "files": [
+                            {
+                                "uri": "https://www.arweave.net/MW1ubAhuRmVVYVSWYqa5Pek9eoSuACVdkTwX-vmdscc?ext=webp",
+                                "type": "image/webp"
+                            }
+                        ],
+                        "category": "image",
+                        "creators": [
+                            {
+                                "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                                "share": 100
+                            }
+                        ]
+                    }
+                },
+                "family": "LIFINITY Flares"
+            },
+            "trade": {
+                "tradeCount": 2,
+                "tradeTime": 1643611526,
+                "price": 3999000000,
+                "dex": "magiceden",
+                "signature": "2djSHLHiUTMnftXcxfXKn6TvFfhW5zBGTA2DRHwvsoYKh16YPZsz2kvY6fqYCzXUZ8D2myHegUJXMV2eSaeawBKq"
+            }
+        },
+        {
+            "info": {
+                "_id": "61c8ad9bc5c37f3d0b19574f",
+                "key": 4,
+                "updateAuthority": "H5q7Z2FJ5KaWmtGquGqoYJYrM73BEpoabzas5y12s38T",
+                "mint": "AhwVczZ5qJC1Y8zBkGzAokqeqqmQ5tUZCiygjQhns58r",
+                "data": {
+                    "name": "LIFINITY Flares #9998",
+                    "symbol": "LIFINITY",
+                    "uri": "https://arweave.net/G_NyW6FhiN4kPUNbqlzd_V-ak9S1NN_3hHZLRQ7UE-U",
+                    "sellerFeeBasisPoints": 500,
+                    "creators": [
+                        {
+                            "address": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
+                            "verified": 1,
+                            "share": 0
+                        },
+                        {
+                            "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                            "verified": 0,
+                            "share": 100
+                        }
+                    ],
+                    "id": 9998
+                },
+                "primarySaleHappened": 1,
+                "isMutable": 1,
+                "mintTx": "4gqujmAUvChEuNecWnWb8e9tV1GsLvyPLEqrd88rCXhMAwHvLR9YNTfQQ5AZu8oNDYpiqYSw44cbt83cJn9CeQCT",
+                "createdTime": 1640541568,
+                "msgsource": "minttx",
+                "collection": "LIFINITY Flares",
+                "collectionId": "e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52",
+                "meta": {
+                    "name": "LIFINITY Flares #9998",
+                    "symbol": "LIFINITY",
+                    "description": "Lifinity Flares is a set of 10,000 animated NFTs that directly combine NFTs with DeFi. They are designed to bootstrap liquidity on Lifinity and perpetually create value for the holders. All sale proceeds are deposited into Lifinity's liquidity pools. Royalties and trading fees are either used to buy back Lifinity Flares or are reinvested into the pools. The team takes zero profit. All value accrues to NFT holders.",
+                    "seller_fee_basis_points": 500,
+                    "image": "https://www.arweave.net/blbG0FqfMOwN-KN7fubS7g0kNe2fQ8Rtw5CPZZzIP-A?ext=webp",
+                    "external_url": "https://lifinity.io",
+                    "attributes": [
+                        {
+                            "trait_type": "Type",
+                            "value": "Standard"
+                        },
+                        {
+                            "trait_type": "Color",
+                            "value": "Aqua"
+                        },
+                        {
+                            "trait_type": "Fire type",
+                            "value": "Haze"
+                        },
+                        {
+                            "trait_type": "Background",
+                            "value": "Matrix"
+                        },
+                        {
+                            "trait_type": "Eyes",
+                            "value": "Smirk"
+                        },
+                        {
+                            "trait_type": "Eyewear",
+                            "value": "Sunglasses"
+                        },
+                        {
+                            "trait_type": "Mouth",
+                            "value": "Grin 2"
+                        },
+                        {
+                            "trait_type": "Headwear",
+                            "value": "Headphones"
+                        },
+                        {
+                            "trait_type": "Accessory",
+                            "value": "Angel wings"
+                        },
+                        {
+                            "trait_type": "Favorite Burnable",
+                            "value": "Wood"
+                        }
+                    ],
+                    "collection": {
+                        "name": "LIFINITY Flares",
+                        "family": "LIFINITY Flares"
+                    },
+                    "properties": {
+                        "files": [
+                            {
+                                "uri": "https://www.arweave.net/blbG0FqfMOwN-KN7fubS7g0kNe2fQ8Rtw5CPZZzIP-A?ext=webp",
+                                "type": "image/webp"
+                            }
+                        ],
+                        "category": "image",
+                        "creators": [
+                            {
+                                "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                                "share": 100
+                            }
+                        ]
+                    }
+                },
+                "family": "LIFINITY Flares"
+            },
+            "trade": {
+                "tradeCount": 1,
+                "tradeTime": 1640554912,
+                "price": 4980000000,
+                "dex": "magiceden",
+                "signature": "8yFT13feZHco5mdiHBqm2tpBEWhM1vH8BN9gRKwK8rQY9uDj7rh1sGQiAQUXuYqBAZWhVvDoUKYPfgiyHJukWwf"
+            }
+        },
+        {
+            "info": {
+                "_id": "61c8ad9ac5c37f3d0b19574d",
+                "key": 4,
+                "updateAuthority": "H5q7Z2FJ5KaWmtGquGqoYJYrM73BEpoabzas5y12s38T",
+                "mint": "2HfyQBkjb5CjDsLDmGVqz4NJGQVYpTL3nJoNgoy5xVgM",
+                "data": {
+                    "name": "LIFINITY Flares #9997",
+                    "symbol": "LIFINITY",
+                    "uri": "https://arweave.net/gL1HW_ws-k1ap-yjZ9kBn1B9LUaiMbHwkYGkTXhMlPI",
+                    "sellerFeeBasisPoints": 500,
+                    "creators": [
+                        {
+                            "address": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
+                            "verified": 1,
+                            "share": 0
+                        },
+                        {
+                            "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                            "verified": 0,
+                            "share": 100
+                        }
+                    ],
+                    "id": 9997
+                },
+                "primarySaleHappened": 1,
+                "isMutable": 1,
+                "mintTx": "5atQuUB4aH6qjGEa3vMkwK1rmLvbRnBjmZuZocPTgeLZ85YWpWbsziJWPs7mVTHt9ayppm8ZA4RrryQx84nBE8X",
+                "createdTime": 1640541568,
+                "msgsource": "minttx",
+                "collection": "LIFINITY Flares",
+                "collectionId": "e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52",
+                "meta": {
+                    "name": "LIFINITY Flares #9997",
+                    "symbol": "LIFINITY",
+                    "description": "Lifinity Flares is a set of 10,000 animated NFTs that directly combine NFTs with DeFi. They are designed to bootstrap liquidity on Lifinity and perpetually create value for the holders. All sale proceeds are deposited into Lifinity's liquidity pools. Royalties and trading fees are either used to buy back Lifinity Flares or are reinvested into the pools. The team takes zero profit. All value accrues to NFT holders.",
+                    "seller_fee_basis_points": 500,
+                    "image": "https://www.arweave.net/NZO7sUSALX4R8nXPbQ3vOlkdIc1KSf2E44DVXq3TdKw?ext=webp",
+                    "external_url": "https://lifinity.io",
+                    "attributes": [
+                        {
+                            "trait_type": "Type",
+                            "value": "Standard"
+                        },
+                        {
+                            "trait_type": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "trait_type": "Fire type",
+                            "value": "Flare"
+                        },
+                        {
+                            "trait_type": "Eyes",
+                            "value": "Smirk"
+                        },
+                        {
+                            "trait_type": "Mouth",
+                            "value": "Laugh"
+                        },
+                        {
+                            "trait_type": "Headwear",
+                            "value": "Halo"
+                        },
+                        {
+                            "trait_type": "Accessory",
+                            "value": "Necklace WAGMI"
+                        },
+                        {
+                            "trait_type": "Favorite Burnable",
+                            "value": "Coal"
+                        }
+                    ],
+                    "collection": {
+                        "name": "LIFINITY Flares",
+                        "family": "LIFINITY Flares"
+                    },
+                    "properties": {
+                        "files": [
+                            {
+                                "uri": "https://www.arweave.net/NZO7sUSALX4R8nXPbQ3vOlkdIc1KSf2E44DVXq3TdKw?ext=webp",
+                                "type": "image/webp"
+                            }
+                        ],
+                        "category": "image",
+                        "creators": [
+                            {
+                                "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                                "share": 100
+                            }
+                        ]
+                    }
+                },
+                "family": "LIFINITY Flares"
+            },
+            "trade": {
+                "tradeCount": 7,
+                "tradeTime": 1645595712,
+                "price": 7152039280,
+                "dex": "magiceden",
+                "signature": "5a85jgLxdhijANz1MdMdZfjVN5u1qkwU86amaFZka5yYBmv4ovwbu35u7Z8aRBqSzeSABcSSG5r2xX8fAxyMuYmT"
+            }
+        },
+        {
+            "info": {
+                "_id": "61c8ad9ac5c37f3d0b19574c",
+                "key": 4,
+                "updateAuthority": "H5q7Z2FJ5KaWmtGquGqoYJYrM73BEpoabzas5y12s38T",
+                "mint": "GKUTrZ8aJUj2hCXYftxnfGjbFJMWqBneszLJZzVW77HK",
+                "data": {
+                    "name": "LIFINITY Flares #9996",
+                    "symbol": "LIFINITY",
+                    "uri": "https://arweave.net/Rzj-ZqNTYNJm_AQw9t20GhBEyNqFeFLM7103dZq1Kfg",
+                    "sellerFeeBasisPoints": 500,
+                    "creators": [
+                        {
+                            "address": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
+                            "verified": 1,
+                            "share": 0
+                        },
+                        {
+                            "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                            "verified": 0,
+                            "share": 100
+                        }
+                    ],
+                    "id": 9996
+                },
+                "primarySaleHappened": 1,
+                "isMutable": 1,
+                "mintTx": "5WhStd6Mivyrg8CPD1k3r9bXuo7xMHqfG3dRXmuWmU2PGzJGLDFspWKbZdtD1CnwhBfveYT1x5B2MQR4YJGRBdWr",
+                "createdTime": 1640541568,
+                "msgsource": "minttx",
+                "collection": "LIFINITY Flares",
+                "collectionId": "e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52",
+                "meta": {
+                    "name": "LIFINITY Flares #9996",
+                    "symbol": "LIFINITY",
+                    "description": "Lifinity Flares is a set of 10,000 animated NFTs that directly combine NFTs with DeFi. They are designed to bootstrap liquidity on Lifinity and perpetually create value for the holders. All sale proceeds are deposited into Lifinity's liquidity pools. Royalties and trading fees are either used to buy back Lifinity Flares or are reinvested into the pools. The team takes zero profit. All value accrues to NFT holders.",
+                    "seller_fee_basis_points": 500,
+                    "image": "https://www.arweave.net/mulEaO3mwObjzr4dmWkU2JwVgvKIrhrHl6hwcPF5GPk?ext=webp",
+                    "external_url": "https://lifinity.io",
+                    "attributes": [
+                        {
+                            "trait_type": "Type",
+                            "value": "Standard"
+                        },
+                        {
+                            "trait_type": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "trait_type": "Fire type",
+                            "value": "Flare"
+                        },
+                        {
+                            "trait_type": "Background",
+                            "value": "Hexagon"
+                        },
+                        {
+                            "trait_type": "Eyes",
+                            "value": "SOL"
+                        },
+                        {
+                            "trait_type": "Eyewear",
+                            "value": "Sunglasses"
+                        },
+                        {
+                            "trait_type": "Mouth",
+                            "value": "Laugh"
+                        },
+                        {
+                            "trait_type": "Accessory",
+                            "value": "Bowtie"
+                        },
+                        {
+                            "trait_type": "Favorite Burnable",
+                            "value": "Rubber"
+                        }
+                    ],
+                    "collection": {
+                        "name": "LIFINITY Flares",
+                        "family": "LIFINITY Flares"
+                    },
+                    "properties": {
+                        "files": [
+                            {
+                                "uri": "https://www.arweave.net/mulEaO3mwObjzr4dmWkU2JwVgvKIrhrHl6hwcPF5GPk?ext=webp",
+                                "type": "image/webp"
+                            }
+                        ],
+                        "category": "image",
+                        "creators": [
+                            {
+                                "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                                "share": 100
+                            }
+                        ]
+                    }
+                },
+                "family": "LIFINITY Flares"
+            },
+            "trade": {
+                "tradeCount": 0
+            }
+        },
+        {
+            "info": {
+                "_id": "61c8ad9bc5c37f3d0b19574e",
+                "key": 4,
+                "updateAuthority": "H5q7Z2FJ5KaWmtGquGqoYJYrM73BEpoabzas5y12s38T",
+                "mint": "E1vSt1rzPdsMH1rFB3qdfefkeJJ4yT2WwoCPEFgon6kt",
+                "data": {
+                    "name": "LIFINITY Flares #9995",
+                    "symbol": "LIFINITY",
+                    "uri": "https://arweave.net/Agyux64yxQi1urnUG1YJkZ7frNMYdoYnJQvE-c9YkAE",
+                    "sellerFeeBasisPoints": 500,
+                    "creators": [
+                        {
+                            "address": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
+                            "verified": 1,
+                            "share": 0
+                        },
+                        {
+                            "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                            "verified": 0,
+                            "share": 100
+                        }
+                    ],
+                    "id": 9995
+                },
+                "primarySaleHappened": 1,
+                "isMutable": 1,
+                "mintTx": "2BwtGo3T3wea5749Ge6iYe4jKzqde2GQKjSPXwQrthJitwwjoaaXrFac6KLLsGqJSdtPrQ4hWDoHGiPWhYWHaAyA",
+                "createdTime": 1640541568,
+                "msgsource": "minttx",
+                "collection": "LIFINITY Flares",
+                "collectionId": "e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52",
+                "meta": {
+                    "name": "LIFINITY Flares #9995",
+                    "symbol": "LIFINITY",
+                    "description": "Lifinity Flares is a set of 10,000 animated NFTs that directly combine NFTs with DeFi. They are designed to bootstrap liquidity on Lifinity and perpetually create value for the holders. All sale proceeds are deposited into Lifinity's liquidity pools. Royalties and trading fees are either used to buy back Lifinity Flares or are reinvested into the pools. The team takes zero profit. All value accrues to NFT holders.",
+                    "seller_fee_basis_points": 500,
+                    "image": "https://www.arweave.net/foGC-YErOe_OPvHtNJPwo_Ay50Syvwx7-grLyP89B64?ext=webp",
+                    "external_url": "https://lifinity.io",
+                    "attributes": [
+                        {
+                            "trait_type": "Type",
+                            "value": "Standard"
+                        },
+                        {
+                            "trait_type": "Color",
+                            "value": "Purple"
+                        },
+                        {
+                            "trait_type": "Fire type",
+                            "value": "Smoke"
+                        },
+                        {
+                            "trait_type": "Eyes",
+                            "value": "SOL"
+                        },
+                        {
+                            "trait_type": "Mouth",
+                            "value": "Pipe"
+                        },
+                        {
+                            "trait_type": "Accessory",
+                            "value": "Necklace WAGMI"
+                        },
+                        {
+                            "trait_type": "Favorite Burnable",
+                            "value": "Propane"
+                        }
+                    ],
+                    "collection": {
+                        "name": "LIFINITY Flares",
+                        "family": "LIFINITY Flares"
+                    },
+                    "properties": {
+                        "files": [
+                            {
+                                "uri": "https://www.arweave.net/foGC-YErOe_OPvHtNJPwo_Ay50Syvwx7-grLyP89B64?ext=webp",
+                                "type": "image/webp"
+                            }
+                        ],
+                        "category": "image",
+                        "creators": [
+                            {
+                                "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                                "share": 100
+                            }
+                        ]
+                    }
+                },
+                "family": "LIFINITY Flares"
+            },
+            "trade": {
+                "tradeCount": 2,
+                "tradeTime": 1641759099,
+                "price": 3900000000,
+                "dex": "magiceden",
+                "signature": "3k5gRwk573qKywjyLv8st43nXTuzuWeqFMprUcusnEnGyQ58DBQQcGNSFKdu8154EgWyj3TX4H2W6tb6zQR8RPVf"
+            }
+        },
+        {
+            "info": {
+                "_id": "61c8ad99c5c37f3d0b195749",
+                "key": 4,
+                "updateAuthority": "H5q7Z2FJ5KaWmtGquGqoYJYrM73BEpoabzas5y12s38T",
+                "mint": "2ky3dERifhMPg3izg2XFQaF7EVpYrRXwueQkdRjrmihd",
+                "data": {
+                    "name": "LIFINITY Flares #9994",
+                    "symbol": "LIFINITY",
+                    "uri": "https://arweave.net/I-Uvpg0_wpIfl-sUqemA_zg8_86p8tyWW4ePl0SQoJM",
+                    "sellerFeeBasisPoints": 500,
+                    "creators": [
+                        {
+                            "address": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
+                            "verified": 1,
+                            "share": 0
+                        },
+                        {
+                            "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                            "verified": 0,
+                            "share": 100
+                        }
+                    ],
+                    "id": 9994
+                },
+                "primarySaleHappened": 1,
+                "isMutable": 1,
+                "mintTx": "3ZBCB2ZHHdc8jg6JD8xG8p1bzG7zVKqf7ZrgoEeHNPmhnBUuHroaGiSc61MoNZHwnFgaGKYsnTeZLjJsh5EfmCvM",
+                "createdTime": 1640541567,
+                "msgsource": "minttx",
+                "collection": "LIFINITY Flares",
+                "collectionId": "e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52",
+                "meta": {
+                    "name": "LIFINITY Flares #9994",
+                    "symbol": "LIFINITY",
+                    "description": "Lifinity Flares is a set of 10,000 animated NFTs that directly combine NFTs with DeFi. They are designed to bootstrap liquidity on Lifinity and perpetually create value for the holders. All sale proceeds are deposited into Lifinity's liquidity pools. Royalties and trading fees are either used to buy back Lifinity Flares or are reinvested into the pools. The team takes zero profit. All value accrues to NFT holders.",
+                    "seller_fee_basis_points": 500,
+                    "image": "https://www.arweave.net/IUI3ow8H_AF4RG7tmmybJ6QM93Di94vB432XbP_5hE8?ext=webp",
+                    "external_url": "https://lifinity.io",
+                    "attributes": [
+                        {
+                            "trait_type": "Type",
+                            "value": "Standard"
+                        },
+                        {
+                            "trait_type": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "trait_type": "Fire type",
+                            "value": "Electric"
+                        },
+                        {
+                            "trait_type": "Background",
+                            "value": "Stars"
+                        },
+                        {
+                            "trait_type": "Eyes",
+                            "value": "Heart"
+                        },
+                        {
+                            "trait_type": "Mouth",
+                            "value": "Smile 2"
+                        },
+                        {
+                            "trait_type": "Headwear",
+                            "value": "Marine"
+                        },
+                        {
+                            "trait_type": "Accessory",
+                            "value": "Angel wings"
+                        },
+                        {
+                            "trait_type": "Favorite Burnable",
+                            "value": "Oil"
+                        }
+                    ],
+                    "collection": {
+                        "name": "LIFINITY Flares",
+                        "family": "LIFINITY Flares"
+                    },
+                    "properties": {
+                        "files": [
+                            {
+                                "uri": "https://www.arweave.net/IUI3ow8H_AF4RG7tmmybJ6QM93Di94vB432XbP_5hE8?ext=webp",
+                                "type": "image/webp"
+                            }
+                        ],
+                        "category": "image",
+                        "creators": [
+                            {
+                                "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                                "share": 100
+                            }
+                        ]
+                    }
+                },
+                "family": "LIFINITY Flares"
+            },
+            "trade": {
+                "tradeCount": 0
+            }
+        },
+        {
+            "info": {
+                "_id": "61c8ad99c5c37f3d0b19574a",
+                "key": 4,
+                "updateAuthority": "H5q7Z2FJ5KaWmtGquGqoYJYrM73BEpoabzas5y12s38T",
+                "mint": "HhZ3PVtn9zXhq2UssewDPxVFjRTGvxjVHvpCQYFdGoDv",
+                "data": {
+                    "name": "LIFINITY Flares #9993",
+                    "symbol": "LIFINITY",
+                    "uri": "https://arweave.net/EcsAUYp1cYncItiHcXT3YC_oqdVtAqmPy9YSGLQucTU",
+                    "sellerFeeBasisPoints": 500,
+                    "creators": [
+                        {
+                            "address": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
+                            "verified": 1,
+                            "share": 0
+                        },
+                        {
+                            "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                            "verified": 0,
+                            "share": 100
+                        }
+                    ],
+                    "id": 9993
+                },
+                "primarySaleHappened": 1,
+                "isMutable": 1,
+                "mintTx": "TzcdWRWAaiPSNFCnyNs2fyCtC1pzXoegXgeMBYJ4c5RZdUGgUyh4dU7oFE5aQrcyS7xtXWhMH3EvSinxyEhLviw",
+                "createdTime": 1640541567,
+                "msgsource": "minttx",
+                "collection": "LIFINITY Flares",
+                "collectionId": "e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52",
+                "meta": {
+                    "name": "LIFINITY Flares #9993",
+                    "symbol": "LIFINITY",
+                    "description": "Lifinity Flares is a set of 10,000 animated NFTs that directly combine NFTs with DeFi. They are designed to bootstrap liquidity on Lifinity and perpetually create value for the holders. All sale proceeds are deposited into Lifinity's liquidity pools. Royalties and trading fees are either used to buy back Lifinity Flares or are reinvested into the pools. The team takes zero profit. All value accrues to NFT holders.",
+                    "seller_fee_basis_points": 500,
+                    "image": "https://www.arweave.net/VZuYinCKX4wSNFsNDH205guwPaTMahJouS2ev8343hY?ext=webp",
+                    "external_url": "https://lifinity.io",
+                    "attributes": [
+                        {
+                            "trait_type": "Type",
+                            "value": "Standard"
+                        },
+                        {
+                            "trait_type": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "trait_type": "Fire type",
+                            "value": "Firestorm"
+                        },
+                        {
+                            "trait_type": "Background",
+                            "value": "Light shower"
+                        },
+                        {
+                            "trait_type": "Eyes",
+                            "value": "Smile"
+                        },
+                        {
+                            "trait_type": "Mouth",
+                            "value": "Smile 1"
+                        },
+                        {
+                            "trait_type": "Headwear",
+                            "value": "Pirate"
+                        },
+                        {
+                            "trait_type": "Favorite Burnable",
+                            "value": "Propane"
+                        }
+                    ],
+                    "collection": {
+                        "name": "LIFINITY Flares",
+                        "family": "LIFINITY Flares"
+                    },
+                    "properties": {
+                        "files": [
+                            {
+                                "uri": "https://www.arweave.net/VZuYinCKX4wSNFsNDH205guwPaTMahJouS2ev8343hY?ext=webp",
+                                "type": "image/webp"
+                            }
+                        ],
+                        "category": "image",
+                        "creators": [
+                            {
+                                "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                                "share": 100
+                            }
+                        ]
+                    }
+                },
+                "family": "LIFINITY Flares"
+            },
+            "trade": {
+                "tradeCount": 7,
+                "tradeTime": 1645672200,
+                "price": 7302039280,
+                "dex": "magiceden",
+                "signature": "4FWLWG5U8yzd9apeY6Vf96hJBJf8upiQbGtibE4cHMtpdqgpuekZTrUAyDd1j9J4x9dZuEvtfiBUEsBLQHSC34GU"
+            }
+        },
+        {
+            "info": {
+                "_id": "61c8ad98c5c37f3d0b195745",
+                "key": 4,
+                "updateAuthority": "H5q7Z2FJ5KaWmtGquGqoYJYrM73BEpoabzas5y12s38T",
+                "mint": "2wHcNsBwVcDbn8BQJHk2Xnm5vdiqooTwCRNmtmwLoFts",
+                "data": {
+                    "name": "LIFINITY Flares #9992",
+                    "symbol": "LIFINITY",
+                    "uri": "https://arweave.net/ebBeXhIf8SwJIuHmUlo2862rg0aCk5VUWV2jujJ06IE",
+                    "sellerFeeBasisPoints": 500,
+                    "creators": [
+                        {
+                            "address": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
+                            "verified": 1,
+                            "share": 0
+                        },
+                        {
+                            "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                            "verified": 0,
+                            "share": 100
+                        }
+                    ],
+                    "id": 9992
+                },
+                "primarySaleHappened": 1,
+                "isMutable": 1,
+                "mintTx": "2bJaLuBrWEtdziHm7bzDuunvExbaKDd87yUQxfRtJfWqQ2xTAPZym4k4L4sNhL6UE1VTCmofatQcgfjre1nBLQxe",
+                "createdTime": 1640541567,
+                "msgsource": "minttx",
+                "collection": "LIFINITY Flares",
+                "collectionId": "e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52",
+                "meta": {
+                    "name": "LIFINITY Flares #9992",
+                    "symbol": "LIFINITY",
+                    "description": "Lifinity Flares is a set of 10,000 animated NFTs that directly combine NFTs with DeFi. They are designed to bootstrap liquidity on Lifinity and perpetually create value for the holders. All sale proceeds are deposited into Lifinity's liquidity pools. Royalties and trading fees are either used to buy back Lifinity Flares or are reinvested into the pools. The team takes zero profit. All value accrues to NFT holders.",
+                    "seller_fee_basis_points": 500,
+                    "image": "https://www.arweave.net/7OwYHmtnO1gh7zF3SQpMltNyFHoK9hje_wskSeVeFAI?ext=webp",
+                    "external_url": "https://lifinity.io",
+                    "attributes": [
+                        {
+                            "trait_type": "Type",
+                            "value": "Standard"
+                        },
+                        {
+                            "trait_type": "Color",
+                            "value": "Orange"
+                        },
+                        {
+                            "trait_type": "Fire type",
+                            "value": "Electric"
+                        },
+                        {
+                            "trait_type": "Eyes",
+                            "value": "Smile"
+                        },
+                        {
+                            "trait_type": "Mouth",
+                            "value": "uwu"
+                        },
+                        {
+                            "trait_type": "Headwear",
+                            "value": "Halo"
+                        },
+                        {
+                            "trait_type": "Accessory",
+                            "value": "Necklace SOL"
+                        },
+                        {
+                            "trait_type": "Favorite Burnable",
+                            "value": "Candles"
+                        }
+                    ],
+                    "collection": {
+                        "name": "LIFINITY Flares",
+                        "family": "LIFINITY Flares"
+                    },
+                    "properties": {
+                        "files": [
+                            {
+                                "uri": "https://www.arweave.net/7OwYHmtnO1gh7zF3SQpMltNyFHoK9hje_wskSeVeFAI?ext=webp",
+                                "type": "image/webp"
+                            }
+                        ],
+                        "category": "image",
+                        "creators": [
+                            {
+                                "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                                "share": 100
+                            }
+                        ]
+                    }
+                },
+                "family": "LIFINITY Flares"
+            },
+            "trade": {
+                "tradeCount": 0
+            }
+        },
+        {
+            "info": {
+                "_id": "61c8ad98c5c37f3d0b195744",
+                "key": 4,
+                "updateAuthority": "H5q7Z2FJ5KaWmtGquGqoYJYrM73BEpoabzas5y12s38T",
+                "mint": "5jaPmLxwmm8wnVLmLyHFMyD9RSX6uPDt5Z7QkrAkr2RJ",
+                "data": {
+                    "name": "LIFINITY Flares #9991",
+                    "symbol": "LIFINITY",
+                    "uri": "https://arweave.net/esi73Ds86gEc5P9IUh20c0KRcA_1qGFPKcMKggAGH98",
+                    "sellerFeeBasisPoints": 500,
+                    "creators": [
+                        {
+                            "address": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
+                            "verified": 1,
+                            "share": 0
+                        },
+                        {
+                            "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                            "verified": 0,
+                            "share": 100
+                        }
+                    ],
+                    "id": 9991
+                },
+                "primarySaleHappened": 1,
+                "isMutable": 1,
+                "mintTx": "55mVygXox13KzhNwtjmqmoJCJvfcqerQqzEtXCHAbQq6NFnSxQCEuyx4D4fDFgiqiK2a2WvQ2Mv1DkeGtbtwzE1J",
+                "createdTime": 1640541567,
+                "msgsource": "minttx",
+                "collection": "LIFINITY Flares",
+                "collectionId": "e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52",
+                "meta": {
+                    "name": "LIFINITY Flares #9991",
+                    "symbol": "LIFINITY",
+                    "description": "Lifinity Flares is a set of 10,000 animated NFTs that directly combine NFTs with DeFi. They are designed to bootstrap liquidity on Lifinity and perpetually create value for the holders. All sale proceeds are deposited into Lifinity's liquidity pools. Royalties and trading fees are either used to buy back Lifinity Flares or are reinvested into the pools. The team takes zero profit. All value accrues to NFT holders.",
+                    "seller_fee_basis_points": 500,
+                    "image": "https://www.arweave.net/uj_3nq5FT5eWtQNYIqQIaXgOB6y9Xoti_76h2aAzbOE?ext=webp",
+                    "external_url": "https://lifinity.io",
+                    "attributes": [
+                        {
+                            "trait_type": "Type",
+                            "value": "Standard"
+                        },
+                        {
+                            "trait_type": "Color",
+                            "value": "Aqua"
+                        },
+                        {
+                            "trait_type": "Fire type",
+                            "value": "Haze"
+                        },
+                        {
+                            "trait_type": "Background",
+                            "value": "Thunderstorm"
+                        },
+                        {
+                            "trait_type": "Eyes",
+                            "value": "Smile"
+                        },
+                        {
+                            "trait_type": "Eyewear",
+                            "value": "Sunglasses"
+                        },
+                        {
+                            "trait_type": "Mouth",
+                            "value": "Laugh"
+                        },
+                        {
+                            "trait_type": "Headwear",
+                            "value": "Pirate"
+                        },
+                        {
+                            "trait_type": "Favorite Burnable",
+                            "value": "Wood"
+                        }
+                    ],
+                    "collection": {
+                        "name": "LIFINITY Flares",
+                        "family": "LIFINITY Flares"
+                    },
+                    "properties": {
+                        "files": [
+                            {
+                                "uri": "https://www.arweave.net/uj_3nq5FT5eWtQNYIqQIaXgOB6y9Xoti_76h2aAzbOE?ext=webp",
+                                "type": "image/webp"
+                            }
+                        ],
+                        "category": "image",
+                        "creators": [
+                            {
+                                "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
+                                "share": 100
+                            }
+                        ]
+                    }
+                },
+                "family": "LIFINITY Flares"
+            },
+            "trade": {
+                "tradeCount": 1,
+                "tradeTime": 1648295740,
+                "price": 9202039280,
+                "dex": "magiceden",
+                "signature": "2AhrDTfT7uy73zgU5ojBPq4wnZ3buAb1Cr3JT8q99krZFYjxu59FwovzTa2xbNAoKn4dU7bBhrihR9orCyWQZZGM"
+            }
+        }
+    ]
+}

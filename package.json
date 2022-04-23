@@ -1,0 +1,15 @@
+{
+  "name": "lifinity-investigation",
+  "version": "1.0.0",
+  "description": "## Find the discord message 1. Checked- Metaplex, Anchor, Serum 2. Possibly missed- Degen Ape Academy 3. Look",
+  "main": "script.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "author": "zkwarlock",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "node-fetch": "^2.6.7"
+  }
+}
