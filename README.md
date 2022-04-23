@@ -1,237 +1,59 @@
-# Wash trading investigation
+# On the wash trading of Lifinity Flares
 
-## Find the discord message
-1. Checked- Metaplex, Anchor, Serum
-2. Possibly missed- Degen Ape Academy
-3. Look
+We present evidence on the wash trading of NFT by people directly behind [Lifinity](lifinity.io). The team minted a large number of their own NFTs on the day of the public mint to decieve investors by create FOMO and inflated demand in the secondary market. A [single wallet](https://solscan.io/account/8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn) suspected to be belong to a core member of Lifinity and Synthetify alone minted 1150 of the 10,000 NFTs.
+
+[Wash trading is a crime](https://en.wikipedia.org/wiki/Wash_trade) in regulated markets.
+
+## Analyzing the data
+
+1. 5346 out of 10,000 NFTs were never touched after the mint. Note how a lot of NFTs carry the "minted 4 months ago" on Solscan, as opposed to "sold on magiceden"
+
+![](./assets/untraded-flares-solscan.jpg)
+
+2. The top 10 holders have 33.18% of the Lifinity Flares. The top 5 being-
+
+| Address                                      | Flares held |
+|----------------------------------------------|-------------|
+| 8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn | 1150        |
+| GQ7Wdm1Uj1NDbCeGhGReMKvd59Zzvr9hvmyY39pS1cmc | 872         |
+| 9M7ttEPYsx4eYRxPxQYCEdARSEegLV6UntmL2kDqvioT | 345         |
+| 52jTdrpRwiYGtMSUMnCFhcCjdEUMJRFSrb3YxQGiN1Vx | 190         |
+| sfgt6jXbjoT4DV9WysSkHY5Xyt88rBBNvddytuhWA67  | 182         |
+
+3. There's clear evidence that [8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn](https://solscan.io/account/8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn) which bought 1150 flares is Norbert Bodziony or a close asssociate of Synthetify.
+
+    1. https://solscan.io/account/HJHg4Tob8vMkB5QAStdbcp8NeXV5HtMP5E3kUNJSaD6r is the $SNY token account for this wallet. The oldest transactions are 10 month old, coinciding with Synthetify's launch.
+
+        ![](./assets/sny-holder.jpg)
+
+        ![](./assets/sny-holder-old.jpg)
+
+    2. Wash minting of 1150 Flares by [8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn](https://solscan.io/account/8YY5LrwE1dyUwohuusNNJbqEXg9vGdUFXTqyQu7gZ6vn)-
+
+        ![](./assets/wash-mint.jpg)
 
 
-## Explorer approach
-
-- [Solscan page for flares](https://solscan.io/collection/e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52)- 'minted' indicates that NFTs were minted but never sold again. A lot of NFTs of this type
-    1. Count of NFTs with no primary sale
-    2. Biggest minters
-
-## Questions
-
-- Were all 10k NFTs sold?: Yes. 30 are kept reserve for partnerships.
-- Sold on 26th within 2 hours.
+    3. It is likely that #2 and other addresses are shell accounts to buy more flares.
 
 
-## Data samples
+## Methodology
 
-1. Unsole
+1. Fetch JSON data of the [Flares collection from Solscan](https://solscan.io/collection/e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52). Due to API constraints, we had to set a limit of 1000 per call and paginate 10 times. Responses are stored in the ./data folder
 
-```json
-{
-    "info": {
-        "_id": "61c8ad9ac5c37f3d0b19574c",
-        "key": 4,
-        "updateAuthority": "H5q7Z2FJ5KaWmtGquGqoYJYrM73BEpoabzas5y12s38T",
-        "mint": "GKUTrZ8aJUj2hCXYftxnfGjbFJMWqBneszLJZzVW77HK",
-        "data": {
-            "name": "LIFINITY Flares #9996",
-            "symbol": "LIFINITY",
-            "uri": "https://arweave.net/Rzj-ZqNTYNJm_AQw9t20GhBEyNqFeFLM7103dZq1Kfg",
-            "sellerFeeBasisPoints": 500,
-            "creators": [
-                {
-                    "address": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
-                    "verified": 1,
-                    "share": 0
-                },
-                {
-                    "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
-                    "verified": 0,
-                    "share": 100
-                }
-            ],
-            "id": 9996
-        },
-        "primarySaleHappened": 1,
-        "isMutable": 1,
-        "mintTx": "5WhStd6Mivyrg8CPD1k3r9bXuo7xMHqfG3dRXmuWmU2PGzJGLDFspWKbZdtD1CnwhBfveYT1x5B2MQR4YJGRBdWr",
-        "createdTime": 1640541568,
-        "msgsource": "minttx",
-        "collection": "LIFINITY Flares",
-        "collectionId": "e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52",
-        "meta": {
-            "name": "LIFINITY Flares #9996",
-            "symbol": "LIFINITY",
-            "description": "Lifinity Flares is a set of 10,000 animated NFTs that directly combine NFTs with DeFi. They are designed to bootstrap liquidity on Lifinity and perpetually create value for the holders. All sale proceeds are deposited into Lifinity's liquidity pools. Royalties and trading fees are either used to buy back Lifinity Flares or are reinvested into the pools. The team takes zero profit. All value accrues to NFT holders.",
-            "seller_fee_basis_points": 500,
-            "image": "https://www.arweave.net/mulEaO3mwObjzr4dmWkU2JwVgvKIrhrHl6hwcPF5GPk?ext=webp",
-            "external_url": "https://lifinity.io",
-            "attributes": [
-                {
-                    "trait_type": "Type",
-                    "value": "Standard"
-                },
-                {
-                    "trait_type": "Color",
-                    "value": "Red"
-                },
-                {
-                    "trait_type": "Fire type",
-                    "value": "Flare"
-                },
-                {
-                    "trait_type": "Background",
-                    "value": "Hexagon"
-                },
-                {
-                    "trait_type": "Eyes",
-                    "value": "SOL"
-                },
-                {
-                    "trait_type": "Eyewear",
-                    "value": "Sunglasses"
-                },
-                {
-                    "trait_type": "Mouth",
-                    "value": "Laugh"
-                },
-                {
-                    "trait_type": "Accessory",
-                    "value": "Bowtie"
-                },
-                {
-                    "trait_type": "Favorite Burnable",
-                    "value": "Rubber"
-                }
-            ],
-            "collection": {
-                "name": "LIFINITY Flares",
-                "family": "LIFINITY Flares"
-            },
-            "properties": {
-                "files": [
-                    {
-                        "uri": "https://www.arweave.net/mulEaO3mwObjzr4dmWkU2JwVgvKIrhrHl6hwcPF5GPk?ext=webp",
-                        "type": "image/webp"
-                    }
-                ],
-                "category": "image",
-                "creators": [
-                    {
-                        "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
-                        "share": 100
-                    }
-                ]
-            }
-        },
-        "family": "LIFINITY Flares"
-    },
-    "trade": {
-        "tradeCount": 0
-    }
-}
+
+```sh
+curl https://api.solscan.io/collection/nft?sortBy=nameDec&collectionId=e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52&offset=0&limit=1000
 ```
 
+2. Run [1-get-whales.js](1-get-whales.js). This script loops through the collection to-
 
-2. Sold
+    1. Find NFTs with a trade count of 0, i.e. those which were never listed on an NFT marketplace such as Solscan.
+    2. Find the owner of each NFT using
 
-```json
-{
-    "info": {
-        "_id": "61c8ad9bc5c37f3d0b195751",
-        "key": 4,
-        "updateAuthority": "H5q7Z2FJ5KaWmtGquGqoYJYrM73BEpoabzas5y12s38T",
-        "mint": "5MeYfuJjGFyrePZiXb57fuCE9ZJu9L7jLy6a38KVrzcY",
-        "data": {
-            "name": "LIFINITY Flares #10000",
-            "symbol": "LIFINITY",
-            "uri": "https://arweave.net/ljVa2fpb-ZU0qna0FLfnF56E1Y43bU0YadJz_BvBR6Q",
-            "sellerFeeBasisPoints": 500,
-            "creators": [
-                {
-                    "address": "EWyWxSkxWHWGzxfCd9kG7zGrKTUDbZGiV6VbFJF8YfqN",
-                    "verified": 1,
-                    "share": 0
-                },
-                {
-                    "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
-                    "verified": 0,
-                    "share": 100
-                }
-            ],
-            "id": 10000
-        },
-        "primarySaleHappened": 1,
-        "isMutable": 1,
-        "mintTx": "3BmcMQtrFyeUs1Xe6QjkUVjMHXinjUASYFmr4SFH5USV3GjYmDkLYGYFdfhxiZzWz219DDctCG8JDfXDnXhD8xBx",
-        "createdTime": 1640541569,
-        "msgsource": "minttx",
-        "collection": "LIFINITY Flares",
-        "collectionId": "e68bf9abf20e179549afa0205087a6f449db4527b575df0adb589542ac52fd52",
-        "meta": {
-            "name": "LIFINITY Flares #10000",
-            "symbol": "LIFINITY",
-            "description": "Lifinity Flares is a set of 10,000 animated NFTs that directly combine NFTs with DeFi. They are designed to bootstrap liquidity on Lifinity and perpetually create value for the holders. All sale proceeds are deposited into Lifinity's liquidity pools. Royalties and trading fees are either used to buy back Lifinity Flares or are reinvested into the pools. The team takes zero profit. All value accrues to NFT holders.",
-            "seller_fee_basis_points": 500,
-            "image": "https://www.arweave.net/NCP9SVjXrDhVWA9SuvWwPtYpw4fm7cuGybEVADyAmCE?ext=webp",
-            "external_url": "https://lifinity.io",
-            "attributes": [
-                {
-                    "trait_type": "Type",
-                    "value": "Standard"
-                },
-                {
-                    "trait_type": "Color",
-                    "value": "Blue"
-                },
-                {
-                    "trait_type": "Fire type",
-                    "value": "Zap"
-                },
-                {
-                    "trait_type": "Eyes",
-                    "value": "Laughing"
-                },
-                {
-                    "trait_type": "Mouth",
-                    "value": "Smile 2"
-                },
-                {
-                    "trait_type": "Favorite Burnable",
-                    "value": "Oil"
-                }
-            ],
-            "collection": {
-                "name": "LIFINITY Flares",
-                "family": "LIFINITY Flares"
-            },
-            "properties": {
-                "files": [
-                    {
-                        "uri": "https://www.arweave.net/NCP9SVjXrDhVWA9SuvWwPtYpw4fm7cuGybEVADyAmCE?ext=webp",
-                        "type": "image/webp"
-                    }
-                ],
-                "category": "image",
-                "creators": [
-                    {
-                        "address": "GmS7MqCNzo9kTQKYvJD7pDKoBNHwc7qyRAwvJUUxfRjr",
-                        "share": 100
-                    }
-                ]
-            }
-        },
-        "family": "LIFINITY Flares"
-    },
-    "trade": {
-        "tradeCount": 1,
-        "tradeTime": 1641166475,
-        "price": 5500000000,
-        "dex": "magiceden",
-        "signature": "nLzcjGUjdcZ8bSZgm4WgUdwgxKq6zFdnxFyEgzXY6ZXks8iu9dhKgKd6G8gUeEKvVEZNvA5RxJaVEFGTHs2HK3z"
-    }
-}
-```
+    ```
+    curl https://api.solscan.io/token/holders?token=${mint}&offset=0&size=1
+    ```
 
-## links
+3. Give the script some time. A map of owner address to ownership count is printed on console. The results are saved in [unsold-owners.js](unsold-owners.js).
 
-1. Honey partnership- https://twitter.com/Lifinity_io/status/1482357878954786820?s=20&t=q216xxg-0Bjzst4HUEEnMA
-2. Chest finance partnership- https://twitter.com/Lifinity_io/status/1482288269282971648?s=20&t=q216xxg-0Bjzst4HUEEnMA
-3. Armani- https://twitter.com/hyperspacexyz/status/1478465472597086208?s=20&t=q216xxg-0Bjzst4HUEEnMA
-4. Ninja- https://twitter.com/Lifinity_io/status/1478031359247806465?s=20&t=q216xxg-0Bjzst4HUEEnMA
+4. Run [2-biggest-whales.js](2-biggest-whales.js) to get the top 10 holders.
