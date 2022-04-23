@@ -8,20 +8,19 @@ async function main() {
     if (item.trade.tradeCount === 0) {
       unsold++
 
-      // const mint = item.info.mint
+      const mint = item.info.mint
 
-      // try {
-      //   const resp = await axios.get(`https://api.solscan.io/token/holders?token=${mint}&offset=0&size=1`)
-      //   const owner = resp.data.data.result[0].owner
-      //   if (!owners[owner]) {
-      //     owners[owner] = 1
-      //   } else {
-      //     owners[owner] += 1
-      //   }
-      //   console.log('owners', owners)
-      // } catch(error) {
-      //   console.log('timeout')
-      // }
+      try {
+        const resp = await axios.get(`https://api.solscan.io/token/holders?token=${mint}&offset=0&size=1`)
+        const owner = resp.data.data.result[0].owner
+        if (!owners[owner]) {
+          owners[owner] = 1
+        } else {
+          owners[owner] += 1
+        }
+      } catch(error) {
+        console.log('timeout')
+      }
 
     }
   }
